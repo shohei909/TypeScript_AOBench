@@ -1,6 +1,6 @@
 /*
   AOBench (TypeScript version)
-  2012/10/12
+  2012/10/17
   ported by Twitter:@shohei909
 	
   aobench site: http://code.google.com/p/aobench/
